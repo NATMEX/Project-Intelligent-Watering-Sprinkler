@@ -1,5 +1,5 @@
 //Project Intelligent Watering Sprinkler
-// CRE2227 CE SSRU
+// CPE2227 CE SSRU
 // Phetcharat Sawangwong No. 61122519006
 // Parinya Phonuch No. 61122519018 
 // Nattapat Kerdkaew No. 61122519019
